@@ -6,6 +6,7 @@
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aarthi-bethi-207a512b7) or [Email](mailto:bethiaarthireddy@gmail.com).
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m passionate about exploring new concepts in Java, diving into problem-solving, and applying these skills to create practical applications. I also enjoy participating in coding challenges.
+- 🌐 Portfolio -[https://bethiaarthi.github.io/portfolio/](https://bethiaarthi.github.io/portfolio/)
 
 
 ### 📜 Certifications
